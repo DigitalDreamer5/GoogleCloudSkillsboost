@@ -10,11 +10,12 @@ gcloud config list project
 ```
 
 ```
-export USERNAME=
-export REGION=
-export ZONE=
-export BUCKET_NAME=
-export BUCKET_NAME_2=
+export USERNAME= student-02-0fafb7c618b3@qwiklabs.net
+export REGION= us-east1
+export ZONE= us-east1
+export BUCKET_NAME= qwiklabs-gcp-00-182402b9bd88
+export BUCKET_NAME_2= qwiklabs-gcp-00-182402b9bd88-2
+
 ```
 
 ## Task 1. Explore the Google Cloud console
